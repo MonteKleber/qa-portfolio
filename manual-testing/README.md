@@ -1,3 +1,11 @@
 # Manual Testing
 
-This folder contains my manual testing studies and practical test documentation.
+This directory contains my practical studies in software testing,
+including test planning, test cases, execution reports and evidence.
+
+## Topics
+- Functional testing
+- Exploratory testing
+- Positive and negative scenarios
+- Test cases
+- Bug reporting
